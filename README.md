@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Manikanta Kondakayala</h1>
 - 🌱 I’m currently learning **Full Stack Development**
 
+- 📫 How to reach me **manimanikanta41150@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1iOdHOYAMEI-_pMCecqW9DHcBAYxGJePL/view?usp=sharing](https://drive.google.com/file/d/1iOdHOYAMEI-_pMCecqW9DHcBAYxGJePL/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/manikantak9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manikantak9" height="30" width="40" /></a>
@@ -13,3 +17,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kmanikanta9&show_icons=true&locale=en&layout=compact" alt="kmanikanta9" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kmanikanta9&show_icons=true&locale=en" alt="kmanikanta9" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kmanikanta9&" alt="kmanikanta9" /></p>
