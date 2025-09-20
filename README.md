@@ -7,7 +7,7 @@
 <h1 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /> I'm Manikanta Kondakayala
 </h1>
-<h3 align="center">🚀 Aspiring Full Stack Developer | MERN Stack Enthusiast</h3>
+<h3 align="center">🚀 Aspiring Full Stack Developer</h3>
 
 <!-- Profile Views -->
 <p align="center">
@@ -19,11 +19,11 @@
 ## 💫 About Me
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350px" />
 
-- 🌱 I’m currently learning **Full Stack Web Development & System Design**
-- 👯 I’m looking to collaborate on **MERN Stack Projects**
-- 📄 Check out my resume: [Click Here](https://drive.google.com/file/d/1B5p67SBQR6MP4Pq6rahmq/view?usp=sharing)
+- 🌱 I’m currently learning ** System Design**
+- 👯 I’m looking to collaborate on **Full Stack Projects**
+- 📄 Check out my resume: [Click Here](https://drive.google.com/file/d/12tol1RHR5gShGqljAe8q878pywWHnOMU/view?usp=sharing)
 - 📫 Reach me at **manimanikanta41150@gmail.com**
-- ⚡ Fun fact: **I enjoy solving DSA problems (240+ on LeetCode)**
+- ⚡ Fun fact: **I enjoy solving coding challenges**
 
 ---
 
