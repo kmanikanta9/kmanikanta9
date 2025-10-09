@@ -75,7 +75,7 @@
 
 ### Hotel Booking Platform
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge)](https://luxuryhotel-eosin.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/kmanikanta9/hotel-booking)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/kmanikanta9/Hotel_Booking)
 
 A comprehensive hotel booking application featuring:
 - **User Authentication** with secure login/signup
