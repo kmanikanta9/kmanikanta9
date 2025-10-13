@@ -29,6 +29,7 @@
 - 💼 Open to **Full Stack Developer** roles
 - 👯 Looking to collaborate on **innovative web projects**
 - 📄 Check out my resume: [View Resume](https://drive.google.com/file/d/1ndjMK7FSsNN3pZjDwztAwOb2vECijyKx/view?usp=sharing)
+-  👨‍💻 All of my projects are available at **[My Portfolio](https://manikanta-portfolio-sigma.vercel.app/)**
 - 📫 How to reach me: **manimanikanta41150@gmail.com**
 - ⚡ Fun fact: **I enjoy solving coding challenges more than solving puzzles!**
 
